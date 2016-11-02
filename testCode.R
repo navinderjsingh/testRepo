@@ -4,4 +4,4 @@ a<-rnorm(100)
 plot(a)
 
 b<-mean(a)
-
+b
